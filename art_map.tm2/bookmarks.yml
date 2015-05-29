@@ -1,0 +1,16 @@
+- place_name: San Antonio, 78207, Texas, United States
+  zoom: 12
+  center: 
+    - 29.422404130002644
+    - -98.50547790527344
+  tags: 
+    - userbookmark
+  index: 0
+- place_name: 204 SE Scott St, Bend, 97702, Oregon, United States
+  zoom: 12
+  center: 
+    - 44.04996644206354
+    - -121.30451202392578
+  tags: 
+    - userbookmark
+  index: 1
